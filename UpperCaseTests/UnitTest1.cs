@@ -19,6 +19,8 @@ namespace Tests
         {
             var output = UpperCase.UpperCaseThis("hi there");
             Assert.AreEqual("HI THERE", output);
+
+            Assert.AreNotEqual("hi there", output);
         }
     }
 }

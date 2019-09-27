@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpperCaseApp", "UpperCaseApp\UpperCaseApp.csproj", "{EB2EA3DC-C487-4CFC-A5E0-2D04B3AF3DE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpperCaseTests", "UpperCaseTests\UpperCaseTests.csproj", "{7D239B5E-C435-4BC0-B812-16F5E3514BEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB2EA3DC-C487-4CFC-A5E0-2D04B3AF3DE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2EA3DC-C487-4CFC-A5E0-2D04B3AF3DE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2EA3DC-C487-4CFC-A5E0-2D04B3AF3DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2EA3DC-C487-4CFC-A5E0-2D04B3AF3DE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D239B5E-C435-4BC0-B812-16F5E3514BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D239B5E-C435-4BC0-B812-16F5E3514BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D239B5E-C435-4BC0-B812-16F5E3514BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D239B5E-C435-4BC0-B812-16F5E3514BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C65D8E7-8296-4393-9269-C0488F3F3A25}
+	EndGlobalSection
+EndGlobal

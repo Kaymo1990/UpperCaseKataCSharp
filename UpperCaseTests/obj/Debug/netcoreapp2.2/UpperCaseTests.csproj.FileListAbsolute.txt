@@ -1,0 +1,17 @@
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseTests\bin\Debug\netcoreapp2.2\UpperCaseTests.deps.json
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseTests\bin\Debug\netcoreapp2.2\UpperCaseTests.runtimeconfig.json
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseTests\bin\Debug\netcoreapp2.2\UpperCaseTests.runtimeconfig.dev.json
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseTests\bin\Debug\netcoreapp2.2\UpperCaseTests.dll
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseTests\bin\Debug\netcoreapp2.2\UpperCaseTests.pdb
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseTests\bin\Debug\netcoreapp2.2\UpperCaseApp.dll
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseTests\bin\Debug\netcoreapp2.2\UpperCaseApp.pdb
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseTests\obj\Debug\netcoreapp2.2\UpperCaseTests.csprojAssemblyReference.cache
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseTests\obj\Debug\netcoreapp2.2\UpperCaseTests.csproj.CoreCompileInputs.cache
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseTests\obj\Debug\netcoreapp2.2\UpperCaseTests.AssemblyInfoInputs.cache
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseTests\obj\Debug\netcoreapp2.2\UpperCaseTests.AssemblyInfo.cs
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseTests\obj\Debug\netcoreapp2.2\UpperCaseTests.csproj.CopyComplete
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseTests\obj\Debug\netcoreapp2.2\UpperCaseTests.dll
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseTests\obj\Debug\netcoreapp2.2\UpperCaseTests.pdb

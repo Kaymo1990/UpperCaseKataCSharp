@@ -1,0 +1,11 @@
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseApp\bin\Debug\netcoreapp2.2\UpperCaseApp.deps.json
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseApp\bin\Debug\netcoreapp2.2\UpperCaseApp.runtimeconfig.json
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseApp\bin\Debug\netcoreapp2.2\UpperCaseApp.runtimeconfig.dev.json
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseApp\bin\Debug\netcoreapp2.2\UpperCaseApp.dll
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseApp\bin\Debug\netcoreapp2.2\UpperCaseApp.pdb
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseApp\obj\Debug\netcoreapp2.2\UpperCaseApp.csprojAssemblyReference.cache
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseApp\obj\Debug\netcoreapp2.2\UpperCaseApp.csproj.CoreCompileInputs.cache
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseApp\obj\Debug\netcoreapp2.2\UpperCaseApp.AssemblyInfoInputs.cache
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseApp\obj\Debug\netcoreapp2.2\UpperCaseApp.AssemblyInfo.cs
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseApp\obj\Debug\netcoreapp2.2\UpperCaseApp.dll
+C:\Users\Kay\source\repos\UpperCaseApp\UpperCaseApp\obj\Debug\netcoreapp2.2\UpperCaseApp.pdb
